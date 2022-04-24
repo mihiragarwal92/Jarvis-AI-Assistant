@@ -1,13 +1,15 @@
 # Jarvis-AI-Assistant
 # AI_Personal_Voice_Assistant_Using_Python
-h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mihir</h1>
-<h3 align="center">Sharing a pyhton based AI Assistant named -Jarvis </h3>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mihir</h1>
+<h3 align="center">sharing a python based AI Assistant - JARVIS</h3>
 
 An AI personal assistant is a piece of software that understands verbal or written commands and completes task assigned by the client. It is an example of weak AI that is it can only execute and perform quest designed by the user.
 Want to build your own personal AI assistant like Apple Siri, Microsoft Cortana and Google assistant?
+<p align="center">
+  <img src="https://github.com/mihiragarwal92/Jarvis-AI-Assistant/blob/main/jarvis-iron-man.gif" alt="animated" />
+</p>
 
- <center>![](https://github.com/mihiragarwal92/Jarvis-AI-Assistant/blob/main/jarvis-iron-man.gif)<center>
+
 
 
 With the python programming language, a script most commonly used by the developers can be used to build your personal AI assistant to perform task designed by the users.
@@ -16,18 +18,31 @@ The implemented voice assistant can perform the following task it can open YouTu
 The following queries of the voice assistant can be manipulated as per the users need.
 Packages required:
 To build a personal voice assistant it’s necessary to install the following packages in your system using the pip command.
-1) Speech recognition — Speech recognition is an important feature used in house automation and in artificial intelligence devices. The main function of this library is it tries to understand whatever the humans speak and converts the speech to text.
-2) pyttsx3 — pyttxs3 is a text to speech conversion library in python. This package supports text to speech engines on Mac os x, Windows and on Linux.
-3) wikipedia — Wikipedia is a multilingual online encyclopedia used by many people from academic community ranging from freshmen to students to professors who wants to gain information over a particular topic. This package in python extracts data’s required from Wikipedia.
-4) ecapture — This module is used to capture images from your camera
-5) datetime — This is an inbuilt module in python and it works on date and time
-6) os — This module is a standard library in python and it provides the function to interact with operating system
-7) time — The time module helps us to display time
-8) Web browser — This is an in-built package in python. It extracts data from the web
-9) Subprocess — This is a standard library use to process various system commands like to log off or to restart your PC.
-10) Json- The json module is used for storing and exchanging data.
-11) request- The request module is used to send all types of HTTP request. Its accepts URL as parameters and gives access to the given URL’S.
-12) wolfram alpha — Wolfram Alpha is an API which can compute expert-level answers using Wolfram’s algorithms, knowledge base and AI technology. It is made possible by the Wolfram Language.
+         
+	1) Speech recognition — Speech recognition is an important feature used in house automation and in artificial intelligence devices.
+	                        The main function of this library is it tries to understand whatever the humans speak and converts the speech to text.
+
+        2) pyttsx3 — pyttxs3 is a text to speech conversion library in python. This package supports text to speech engines on Mac os x, Windows and on Linux.
+
+        3) wikipedia — Wikipedia is a multilingual online encyclopedia used by many people from academic community ranging from freshmen to students to professors who                         wants to gain information over a particular topic. This package in python extracts data’s required from Wikipedia.
+
+        4) ecapture — This module is used to capture images from your camera
+
+        5) datetime — This is an inbuilt module in python and it works on date and time
+
+        6) os — This module is a standard library in python and it provides the function to interact with operating system
+
+        7) time — The time module helps us to display time
+
+        8) Web browser — This is an in-built package in python. It extracts data from the web
+
+        9) Subprocess — This is a standard library use to process various system commands like to log off or to restart your PC.
+
+        10) Json- The json module is used for storing and exchanging data.
+
+        11) request- The request module is used to send all types of HTTP request. Its accepts URL as parameters and gives access to the given URL’S.
+
+        12) wolfram alpha — Wolfram Alpha is an API which can compute expert-level answers using Wolfram’s algorithms, knowledge base and AI technology. It is made                                 possible by the Wolfram Language.
 
 A project to build an AI voice assistant using Python . The Voice assistant interacts with the humans to perform basic tasks.
 
@@ -48,11 +63,11 @@ Hello, Good Morning" (Greets the user according to time)
 ### The implemented Voice assistant can perform the following tasks:
 
 
-         1.	Opens a wepage : Youtube , G-Mail , Google Chrome , StackOverflow 
+        1.Opens a wepage : Youtube , G-Mail , Google Chrome , StackOverflow 
            Human : Open Youtube
 		
         
-        2.	Predicts time 
+        2.Predicts time 
            Human : the time?
 
          
@@ -74,11 +89,11 @@ Hello, Good Morning" (Greets the user according to time)
        
         
         7. Predict Weather of different Cities
-   	    Human: Location
+   	   Human: Location
 		
         
         8. Sends Whatsapp Message
-            Human: Send Whatsapp Message
+           Human: Send Whatsapp Message
        
        
         9. Also remembers the tasks
@@ -97,23 +112,23 @@ Hello, Good Morning" (Greets the user according to time)
 
 ### Libraries required to be installed using Pip Command:
 	
-	      1.Json
-	
-	      2.request
-	
-	      3.Speech recognition
-	
- 	      4.Pyttsx3
-	
-	      5.Wikipedia
-	
-	      6.Ecapture
-	
-	      7.time
-	
-	      8.Wolfram Alpha
+         1.Json
 
-        9.speech_recognition as sr
+	 2.request
+	
+	 3.Speech recognition
+	
+ 	 4.Pyttsx3
+	
+	 5.Wikipedia
+	
+	 6.Ecapture
+	
+	 7.time
+	
+	 8.Wolfram Alpha
+
+         9.speech_recognition as sr
 
         10. webbrowser
         
