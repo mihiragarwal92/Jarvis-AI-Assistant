@@ -7,8 +7,7 @@ h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 An AI personal assistant is a piece of software that understands verbal or written commands and completes task assigned by the client. It is an example of weak AI that is it can only execute and perform quest designed by the user.
 Want to build your own personal AI assistant like Apple Siri, Microsoft Cortana and Google assistant?
 
-<div class="tenor-gif-embed" data-postid="14440368" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/jarvis-iron-man-marvel-avengers-gif-14440368">Jarvis Iron Man GIF</a>from <a href="https://tenor.com/search/jarvis-gifs">Jarvis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+ <center>![](https://github.com/mihiragarwal92/Jarvis-AI-Assistant/blob/main/jarvis-iron-man.gif)<center>
 
 
 With the python programming language, a script most commonly used by the developers can be used to build your personal AI assistant to perform task designed by the users.
@@ -57,7 +56,7 @@ Hello, Good Morning" (Greets the user according to time)
            Human : the time?
 
          
-         3.Fetch the CPU stats
+        3.Fetch the CPU stats
            Human:CPU!
 		
         
@@ -65,7 +64,7 @@ Hello, Good Morning" (Greets the user according to time)
            Human: Screenshot
 
          
-         5. Searches data from web/wikipedia
+        5. Searches data from web/wikipedia
            Human: [SUBJECT]Wikipedia
            The voice assistant abstarcts first 3 lines of wikipedia and gives the information to the user.
          
@@ -75,16 +74,16 @@ Hello, Good Morning" (Greets the user according to time)
        
         
         7. Predict Weather of different Cities
-   	        Human: Location
+   	    Human: Location
 		
         
         8. Sends Whatsapp Message
             Human: Send Whatsapp Message
        
        
-       9. Also remembers the tasks
-	        Human: Tell Remember that [SUBJECT]
-             Do You Remember anything?
+        9. Also remembers the tasks
+	   Human: Tell Remember that [SUBJECT]
+           Do You Remember anything?
 		
 		
         
@@ -92,7 +91,7 @@ Hello, Good Morning" (Greets the user according to time)
           Human: Shutdown
 
        
-       11.Sends Email
+        11.Sends Email
           Human: Email to [user]
 
 
